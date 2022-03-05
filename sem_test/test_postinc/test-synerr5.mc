@@ -1,0 +1,7 @@
+//OPIS: Inkrement literala
+int main() {
+    int a;
+    a = 5 ++;
+    return 5;
+}
+
